@@ -65,6 +65,7 @@ An end-to-end regression analysis on a dataset of 19,000+ U.S. cars. Involves ou
 ### ⭐ Popular Repositories
 * **[Garment-Worker-Productivity](https://github.com/venurikinara2002-lang/Garment-Worker-Productivity)**: This repository contains the complete codebase for predicting the productivity of garment manufacturing lines using real-world factory floor data from Bangladesh. It integrates FastAPI and React (Vite, Framer Motion, Recharts) to build a beautiful "what-if" operational dashboard for factory management.
 * **[Data-Science-on-the-High-Seas-Predictive-Analytics-for-Fisheries](https://github.com/venurikinara2002-lang/Data-Science-on-the-High-Seas-Predictive-Analytics-for-Fisheries)**: Predicts voyage profitability, operational costs, and safety metrics for offshore fishing vessels in Sri Lanka. It combines RandomForestRegressor modeling with an interactive Streamlit-based decision optimizer.
+* **[Maritime-Decision-Support-System](https://github.com/venurikinara2002-lang/Maritime-Decision-Support-System)**: An interactive decision support web tool providing fishermen with catch target recommendations, sea safety analysis, and historical trip data visualizations built using Streamlit and Python.
 
 ---
 
