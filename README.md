@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Venuri Kinara
+# Hello! I'm Venuri Kinara
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3670A0&width=435&lines=Data+Science+Undergraduate;Machine+Learning+Enthusiast;Problem+Solver;Data+Analyst" alt="Typing SVG" />
