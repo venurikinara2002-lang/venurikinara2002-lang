@@ -56,7 +56,7 @@ A data-driven project evaluating over 20,000+ Sri Lankan offshore fishing trip r
 An interactive decision support web tool providing fishermen with catch target recommendations, sea safety analysis, and historical trip data visualizations.
 * **Tech Stack**: Streamlit, Python, Pandas
 
-#### 🚗 [Car Price Prediction Using Machine Learning](https://github.com/venurikinara2002-lang/car-price-predictor)
+#### 🚗 [Car Price Prediction Using Machine Learning](https://github.com/venurikinara2002-lang/Car-Price-Prediction-Using-Machine-Learning)
 An end-to-end regression analysis on a dataset of 19,000+ U.S. cars. Involves outlier treatments, feature engineering, and multicollinearity checks to determine the best price prediction models.
 * **Tech Stack**: Python, Scikit-Learn, Random Forest, Seaborn
 
