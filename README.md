@@ -44,10 +44,6 @@ I am a final-year **Data Science undergraduate** at the **University of Colombo*
 
 ### 📂 Featured Projects
 
-#### 🛡️ [Global Cybersecurity Statistics Analysis & Power BI Dashboard](https://github.com/venurikinara2002-lang/Global-Cybersecurity-Statistics-PowerBI)
-An interactive Power BI data analytics solution analyzing 3,000 global cybersecurity incidents from 2015 to 2024. The dashboard provides executive insights into financial impact ($236B+ total loss), target industry vulnerability patterns, threat actor behaviors, and the effectiveness of diverse defense mechanisms.
-* **Tech Stack**: Power BI, Power Query, DAX, Python (for data analysis)
-
 #### 📊 [GarmentsIQ: Garment Worker Productivity Predictor](https://github.com/venurikinara2002-lang/Garment-Worker-Productivity)
 A machine learning web application tailored to the garments manufacturing industry. It uses an XGBoost Regressor for the Sewing lines and a Random Forest Regressor for the Finishing lines to forecast actual team productivity, helping factory planners optimize labor and scheduling targets.
 * **Tech Stack**: Python, XGBoost, Random Forest, FastAPI, React, Tailwind CSS, Recharts
@@ -63,6 +59,10 @@ An interactive decision support web tool providing fishermen with catch target r
 #### 🚗 [Car Price Prediction Using Machine Learning](https://github.com/venurikinara2002-lang/Car-Price-Prediction-Using-Machine-Learning)
 An end-to-end regression analysis on a dataset of 19,000+ U.S. cars. Involves outlier treatments, feature engineering, and multicollinearity checks to determine the best price prediction models.
 * **Tech Stack**: Python, Scikit-Learn, Random Forest, Seaborn
+
+#### 🛡️ [Global Cybersecurity Statistics Analysis & Power BI Dashboard](https://github.com/venurikinara2002-lang/Global-Cybersecurity-Statistics-PowerBI)
+An interactive Power BI data analytics solution analyzing 3,000 global cybersecurity incidents from 2015 to 2024. The dashboard provides executive insights into financial impact ($236B+ total loss), target industry vulnerability patterns, threat actor behaviors, and the effectiveness of diverse defense mechanisms.
+* **Tech Stack**: Power BI, Power Query, DAX, Python (for data analysis)
 
 ---
 
